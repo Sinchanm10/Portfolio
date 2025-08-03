@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# 🌐 My Personal Portfolio Website
 
 🔗 View Live Portfolio (https://sinchanm10.netlify.app)
 
